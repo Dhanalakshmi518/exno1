@@ -153,6 +153,12 @@ print("Cleaning completed!")
 
 
             <<include your coding and its corressponding output screen shots here>>
+
+# Summary
+
+I learned how to perform data cleaning using Python and the Pandas library. First, I learned how to read a dataset from a CSV file and identify missing values in each column. I learned to handle missing values by filling numerical data with the median and categorical data with suitable values or the mode. I also learned how to identify and remove duplicate records using the drop_duplicates() function. In addition, I learned to detect outliers using the Interquartile Range (IQR) and Z-score methods. I understood how to check student records for missing values, duplicate registration numbers, and inconsistent total marks. After completing the data cleaning process, I learned to save the cleaned dataset into a new CSV file using the to_csv() function. Finally, this experiment helped me understand the importance of data cleaning in improving data quality and preparing datasets for further analysis.
+
+
 # Result
           <<include your Result here>>
 Thus the given data successfully performed data cleaning and saved the cleaned data to a file.
